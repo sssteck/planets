@@ -1,3 +1,6 @@
 This is a file about Mars. It is cold and dry.
 
 The second line about Mars. It is the red planet and close to Earth.
+
+The third line about Mars. It is the fourth planet from the Sun.
+
